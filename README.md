@@ -36,6 +36,7 @@ We have created a LSTM class that inherits from nn.Module and instance its param
 Dataset
 
 Dataset is available under the following link: http://ai.stanford.edu/~amaas/data/sentiment/
+
 We rearranged the data to the following structure:
 
 ![image](https://user-images.githubusercontent.com/93888640/164790181-9e43ed18-39f9-403f-86b6-4e17a777cd09.png)
