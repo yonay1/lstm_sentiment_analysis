@@ -32,9 +32,12 @@ o	Pytorch Embeddings were initialized with genism weights
 •	LSTM model
 
 We have created a LSTM class that inherits from nn.Module and instance its parameters and weight initialization. Our module is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell.
+
 Dataset
+
 Dataset is available under the following link: http://ai.stanford.edu/~amaas/data/sentiment/
 We rearranged the data to the following structure:
+
 ![image](https://user-images.githubusercontent.com/93888640/164790181-9e43ed18-39f9-403f-86b6-4e17a777cd09.png)
   
 Models:
