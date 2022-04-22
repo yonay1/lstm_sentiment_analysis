@@ -39,8 +39,8 @@ Dataset is available under the following link: http://ai.stanford.edu/~amaas/dat
 
 We rearranged the data to the following structure:
 
-![image](https://user-images.githubusercontent.com/93888640/164790181-9e43ed18-39f9-403f-86b6-4e17a777cd09.png)
-  
+![image](https://user-images.githubusercontent.com/93888640/164790668-ad795d4a-1543-48e8-93b9-fe5847af0293.png)
+
 Models:
 The embedding vectors we imported via gensim:
 
